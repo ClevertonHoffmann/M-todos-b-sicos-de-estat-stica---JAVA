@@ -1,2 +1,2 @@
-# M-todos-b-sicos-de-estat-stica---JAVA
+# Metodos-basicos-de-estatistica --- JAVA
 Projeto com testes unitários sobre métodos de estatística.
